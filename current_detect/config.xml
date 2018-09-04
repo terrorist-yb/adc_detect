@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+  <!--供电电压，单位V-->
+  <supply>4.2</supply>
+  <!--检流电阻电流，单位mA-->
+  <current initial="50" final="200" step="50"/>
+  <!--电流变化时间，单位秒-->
+  <delay>120</delay>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+  <!--电池电压，单位mV-->
+  <voltage initial="4400" final="3500" step="100"/>
+  <!--电流变化时间，单位秒-->
+  <delay>120</delay>
+</config>
